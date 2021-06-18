@@ -1,0 +1,193 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect,"/services/vfe-5110omPublicId"
+1623937576667,117,CSV Variable Counter Beanshell Sampler,200,OK,Thread Group Mobile Service New 1-1,text,true,,0,0,1,1,null,0,0,0,null
+1623937577156,5556,/index.html-875,200,OK,Thread Group Mobile Service New 1-1,text,true,,3043948,3265,1,1,https://172.24.246.8/index.html,1911,0,1769,null
+1623937577156,1914,/index.html-875-0,200,OK,Thread Group Mobile Service New 1-1,text,true,,1915,394,1,1,https://172.24.246.8/index.html,1911,0,1769,null
+1623937579127,1137,/index.html-875-1,200,OK,Thread Group Mobile Service New 1-1,bin,true,,3997,419,1,1,https://172.24.246.8/resources/images/favico/du-logo.png,1136,0,1001,null
+1623937579140,2077,/index.html-875-2,200,OK,Thread Group Mobile Service New 1-1,text,true,,685433,405,1,1,https://172.24.246.8/resources/css/vfe.css,1155,0,1016,null
+1623937579140,3572,/index.html-875-3,200,OK,Thread Group Mobile Service New 1-1,text,true,,2082955,400,1,1,https://172.24.246.8/Extjs/ext-all.js,1154,0,1012,null
+1623937579143,1121,/index.html-875-4,200,OK,Thread Group Mobile Service New 1-1,text,true,,9905,426,1,1,https://172.24.246.8/extjs_implementations/global_properties.js,1121,0,985,null
+1623937579141,1132,/index.html-875-5,200,OK,Thread Group Mobile Service New 1-1,text,true,,6987,399,1,1,https://172.24.246.8/modules/i18n.js,1131,0,995,null
+1623937579140,1641,/index.html-875-6,200,OK,Thread Group Mobile Service New 1-1,text,true,,251857,419,1,1,https://172.24.246.8/modules/du-api.js?vstamp=1622639154,1127,0,989,null
+1623937580268,1097,/index.html-875-7,200,OK,Thread Group Mobile Service New 1-1,text,true,,899,403,1,1,https://172.24.246.8/modules/Ufelogin.js,1095,0,956,null
+1623937583218,1565,/services/getRefData-883-i18n.en,200,OK,Thread Group Mobile Service New 1-1,text,true,,227352,497,1,1,https://172.24.246.8/services/getRefData,1143,0,944,null
+1623937584790,1633,/services/getRefData-903-i18n.en,200,OK,Thread Group Mobile Service New 1-1,text,true,,227352,497,1,1,https://172.24.246.8/services/getRefData,1178,0,976,null
+1623937586447,1102,/services/vfe-904-getRefData-configuration.vfe_services.vfeSession,200,OK,Thread Group Mobile Service New 1-1,text,true,,619,732,1,1,https://172.24.246.8/services/vfe,1100,0,959,null
+1623937587576,1129,/services/log-905-getRefData-configuration.vfe_services.vfeSession,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,765,1,1,https://172.24.246.8/services/log,1128,0,987,null
+1623937576793,10985,SC02_01_DuDSP_Homepage,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group Mobile Service New 1-1,,true,,3499681,5756,1,1,null,6460,927,5635,null
+1623937591708,1093,/services/vfe-912-bootDisabilityDiscountSchedulers,200,OK,Thread Group Mobile Service New 1-1,text,true,,445,734,1,1,https://172.24.246.8/services/vfe,1093,0,950,null
+1623937592806,1102,/services/vfe-914-getUserDetails-username,200,OK,Thread Group Mobile Service New 1-1,text,true,,717,738,1,1,https://172.24.246.8/services/vfe,1102,0,955,null
+1623937593910,1083,/services/log-915-bootDisabilityDiscountSchedulers,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,764,1,1,https://172.24.246.8/services/log,1082,0,944,null
+1623937594993,1095,/services/log-916-getUserDetails-username,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,764,1,1,https://172.24.246.8/services/log,1095,0,954,null
+1623937596089,1078,/services/vfe-917-getRefData-refdata.2fa,200,OK,Thread Group Mobile Service New 1-1,text,true,,1742,736,1,1,https://172.24.246.8/services/vfe,1078,0,940,null
+1623937597167,1103,/services/log-918-getRefData-refdata.2fa,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,772,1,1,https://172.24.246.8/services/log,1102,0,962,null
+1623937598271,1087,/services/vfe-911-bootSchedulers - Response code:403,403,Forbidden,Thread Group Mobile Service New 1-1,text,true,,347,716,1,1,https://172.24.246.8/services/vfe,1087,0,946,null
+1623937599360,1079,/services/log-919-bootSchedulers,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,766,1,1,https://172.24.246.8/services/log,1078,0,943,null
+1623937603440,1089,/services/vfe-924-bootDisabilityDiscountSchedulers,200,OK,Thread Group Mobile Service New 1-1,text,true,,445,707,1,1,https://172.24.246.8/services/vfe,1088,0,943,null
+1623937604533,1108,/services/vfe-923-bootSchedulers - Response code:403,403,Forbidden,Thread Group Mobile Service New 1-1,text,true,,347,689,1,1,https://172.24.246.8/services/vfe,1108,0,962,null
+1623937605655,1498,/services/vfe-925-loginWithoutProfileSelection,200,OK,Thread Group Mobile Service New 1-1,text,true,,60852,920,1,1,https://172.24.246.8/services/vfe,1236,0,954,null
+1623937607402,1104,/services/log-927-bootSchedulers,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,764,1,1,https://172.24.246.8/services/log,1104,0,967,null
+1623937608507,1134,/services/vfe-929-unlockAllDocuments,200,OK,Thread Group Mobile Service New 1-1,text,true,,392,1085,1,1,https://172.24.246.8/services/vfe,1134,0,979,null
+1623937609642,1093,/services/log-928-loginWithoutProfileSelection,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,764,1,1,https://172.24.246.8/services/log,1092,0,952,null
+1623937588706,15746,SC02_02.1_DuDSP_UsernameLogin&Next,200,"Number of samples in transaction : 14, number of failing samples : 0",Thread Group Mobile Service New 1-1,,true,,67747,10919,1,1,null,15479,6285,13351,null
+1623937610740,1232,/services/log-926-bootDisabilityDiscountSchedulers,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2515,1,1,https://172.24.246.8/services/log,1227,0,949,null
+1623937611979,1296,/services/vfe-937-getUserKnowledgeBase,200,OK,Thread Group Mobile Service New 1-1,text,true,,486,2549,1,1,https://172.24.246.8/services/vfe,1290,0,987,null
+1623937613288,1278,/services/vfe-936-getAllVisaTypes,200,OK,Thread Group Mobile Service New 1-1,text,true,,1013,2564,1,1,https://172.24.246.8/services/vfe,1277,0,982,null
+1623937614567,1236,/services/log-939-getUserKnowledgeBase,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2591,1,1,https://172.24.246.8/services/log,1235,0,962,null
+1623937615811,1674,/services/getRefData-932-i18n.en,200,OK,Thread Group Mobile Service New 1-1,text,true,,227352,2241,1,1,https://172.24.246.8/services/getRefData,1285,0,951,null
+1623937617490,1242,/services/log-940-getAllVisaTypes,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2591,1,1,https://172.24.246.8/services/log,1241,0,968,null
+1623937618733,1218,/services/vfe-938-getRefData-configuration.vfe_services.vfeSession,200,OK,Thread Group Mobile Service New 1-1,text,true,,619,2584,1,1,https://172.24.246.8/services/vfe,1217,0,951,null
+1623937619952,1244,/services/vfe-945-getUserInfo,200,OK,Thread Group Mobile Service New 1-1,text,true,,2997,2616,1,1,https://172.24.246.8/services/vfe,1243,0,942,null
+1623937621199,1251,/services/vfe-948-getRefData-refdata.userCapCheck,200,OK,Thread Group Mobile Service New 1-1,text,true,,468,2572,1,1,https://172.24.246.8/services/vfe,1250,0,981,null
+1623937622451,1259,/services/vfe-949-getUserUnreadMessages,200,OK,Thread Group Mobile Service New 1-1,text,true,,405,2542,1,1,https://172.24.246.8/services/vfe,1259,0,960,null
+1623937623713,1262,/services/vfe-950-getUserUnreadQuizzesAndSurveys,200,OK,Thread Group Mobile Service New 1-1,text,true,,409,2551,1,1,https://172.24.246.8/services/vfe,1261,0,967,null
+1623937624978,1229,/services/log-944-getRefData-configuration.vfe_services.vfeSession,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2588,1,1,https://172.24.246.8/services/log,1229,0,960,null
+1623937626208,1259,/services/vfe-951-getRefData-refdata.homeScreen,200,OK,Thread Group Mobile Service New 1-1,text,true,,435,2570,1,1,https://172.24.246.8/services/vfe,1253,0,965,null
+1623937627474,1265,/services/vfe-954-getRefData-refdata.iam,200,OK,Thread Group Mobile Service New 1-1,text,true,,394,2563,1,1,https://172.24.246.8/services/vfe,1260,0,984,null
+1623937628759,1231,/services/log-956-getRefData-refdata.userCapCheck,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2591,1,1,https://172.24.246.8/services/log,1230,0,963,null
+1623937629996,1293,/services/log-946-getUserInfo,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2586,1,1,https://172.24.246.8/services/log,1292,0,1004,null
+1623937631296,1240,/services/log-957-getUserUnreadMessages,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2583,1,1,https://172.24.246.8/services/log,1239,0,973,null
+1623937632538,1225,/services/vfe-952-getRefData-refdata.testAccountUsers,200,OK,Thread Group Mobile Service New 1-1,text,true,,637,2576,1,1,https://172.24.246.8/services/vfe,1224,0,955,null
+1623937633764,1211,/services/log-960-getRefData-refdata.iam,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2591,1,1,https://172.24.246.8/services/log,1210,0,942,null
+1623937634976,1265,/services/vfe-955-updateloginBiometricFlag,200,OK,Thread Group Mobile Service New 1-1,text,true,,361,2598,1,1,https://172.24.246.8/services/vfe,1265,0,961,null
+1623937636244,1238,/services/vfe-953-getRefData-refdata.edaAppletVersion,200,OK,Thread Group Mobile Service New 1-1,text,true,,710,2576,1,1,https://172.24.246.8/services/vfe,1237,0,956,null
+1623937637483,1222,/services/log-965-updateloginBiometricFlag,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2583,1,1,https://172.24.246.8/services/log,1221,0,946,null
+1623937638706,1239,/services/log-966-getRefData-refdata.edaAppletVersion,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2591,1,1,https://172.24.246.8/services/log,1238,0,967,null
+1623937639947,1222,/services/log-964-getRefData-refdata.testAccountUsers,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2591,1,1,https://172.24.246.8/services/log,1222,0,952,null
+1623937641172,1268,/services/log-958-getUserUnreadQuizzesAndSurveys,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2583,1,1,https://172.24.246.8/services/log,1265,0,988,null
+1623937642449,1229,/services/vfe-969-getRefData-refdata.dummyEmiratesCard,200,OK,Thread Group Mobile Service New 1-1,text,true,,415,2591,1,1,https://172.24.246.8/services/vfe,1228,0,960,null
+1623937643679,1252,/services/log-959-getRefData-refdata.homeScreen,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2591,1,1,https://172.24.246.8/services/log,1251,0,977,null
+1623937644932,1627,/services/vfe-968-getAllProfileProcessFlags2,200,OK,Thread Group Mobile Service New 1-1,text,true,,76921,2555,1,1,https://172.24.246.8/services/vfe,1366,0,980,null
+1623937646560,1240,/services/log-974-getRefData-refdata.dummyEmiratesCard,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2591,1,1,https://172.24.246.8/services/log,1240,0,972,null
+1623937647803,1223,/services/vfe-971-getRefData-refdata.checkEidaSponsorflag,200,OK,Thread Group Mobile Service New 1-1,text,true,,5878,2580,1,1,https://172.24.246.8/services/vfe,1222,0,953,null
+1623937649028,1213,/services/log-980-getRefData-refdata.checkEidaSponsorflag,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2593,1,1,https://172.24.246.8/services/log,1212,0,944,null
+1623937650243,1211,/services/log-978-getAllProfileProcessFlags2,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2593,1,1,https://172.24.246.8/services/log,1210,0,945,null
+1623937651455,1495,/services/vfe-979-getProfileProcesses,200,OK,Thread Group Mobile Service New 1-1,text,true,,33779,2621,1,1,https://172.24.246.8/services/vfe,1363,0,964,null
+1623937652953,1214,/services/log-984-getProfileProcesses,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2593,1,1,https://172.24.246.8/services/log,1214,0,947,null
+1623937610736,43303,SC02_02.2_DuDSP_PasswordLogin&Next,200,"Number of samples in transaction : 34, number of failing samples : 0",Thread Group Mobile Service New 1-1,,true,,360249,87394,1,1,null,42476,128,32758,null
+1623937654168,1250,/services/vfe-4826beginTransaction,200,OK,Thread Group Mobile Service New 1-1,text,true,,470,2579,1,1,https://172.24.246.8/services/vfe,1250,0,957,null
+1623937655422,1111,/services/log-4850,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2843,1,1,https://172.24.246.8/services/log,1111,0,934,null
+1623937656535,1215,/services/vfe-4827refdata.contractTagsByProfiles,200,OK,Thread Group Mobile Service New 1-1,text,true,,5804,2770,1,1,https://172.24.246.8/services/vfe,1214,0,944,null
+1623937657751,1141,/services/log-4851,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2833,1,1,https://172.24.246.8/services/log,1140,0,961,null
+1623937658892,1233,/services/vfe-4828getAllVisaConfiguration,200,OK,Thread Group Mobile Service New 1-1,text,true,,1342,2552,1,1,https://172.24.246.8/services/vfe,1232,0,945,null
+1623937660128,1134,/services/log-4852,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2843,1,1,https://172.24.246.8/services/log,1133,0,955,null
+1623937661263,1269,/services/vfe-4829getDocumentTypeAccess,200,OK,Thread Group Mobile Service New 1-1,text,true,,566,2630,1,1,https://172.24.246.8/services/vfe,1268,0,968,null
+1623937662534,1147,/services/log-4856,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2833,1,1,https://172.24.246.8/services/log,1144,0,964,null
+1623937663682,1234,/services/vfe-4832refdata.allowedBrowseProfiles,200,OK,Thread Group Mobile Service New 1-1,text,true,,1064,2769,1,1,https://172.24.246.8/services/vfe,1233,0,966,null
+1623937664919,1144,/services/log-4860,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2833,1,1,https://172.24.246.8/services/log,1143,0,964,null
+1623937666064,1222,/services/vfe-4833refdata.personalInformationOptions,200,OK,Thread Group Mobile Service New 1-1,text,true,,16497,2774,1,1,https://172.24.246.8/services/vfe,1220,0,946,null
+1623937667285,1141,/services/log-4859,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2833,1,1,https://172.24.246.8/services/log,1140,0,960,null
+1623937668430,2030,/services/vfe-4830refdata.lovs,200,OK,Thread Group Mobile Service New 1-1,text,true,,390234,2752,1,1,https://172.24.246.8/services/vfe,1386,0,974,null
+1623937670466,1125,/services/log-4857,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2833,1,1,https://172.24.246.8/services/log,1124,0,943,null
+1623937671592,1210,/services/vfe-4834refdata.EidExpiryDateConfig,200,OK,Thread Group Mobile Service New 1-1,text,true,,1160,2767,1,1,https://172.24.246.8/services/vfe,1209,0,933,null
+1623937672803,1121,/services/log-4858,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2833,1,1,https://172.24.246.8/services/log,1121,0,942,null
+1623937673927,1219,/services/vfe-4846refdata.bypassDocumentSelection,200,OK,Thread Group Mobile Service New 1-1,text,true,,2855,2771,1,1,https://172.24.246.8/services/vfe,1218,0,944,null
+1623937675146,1162,/services/log-4853,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2839,1,1,https://172.24.246.8/services/log,1157,0,972,null
+1623937676310,1226,/services/vfe-4854refdata.documentsPluginDisableOptions,200,OK,Thread Group Mobile Service New 1-1,text,true,,12628,2777,1,1,https://172.24.246.8/services/vfe,1225,0,950,null
+1623937677536,1121,/services/log-4855,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2833,1,1,https://172.24.246.8/services/log,1120,0,941,null
+1623937654168,24455,ActivateMobileServiceNew,200,"Number of samples in transaction : 20, number of failing samples : 0",Thread Group Mobile Service New 1-1,,true,,436720,55497,1,1,null,23788,36,19063,null
+1623937678658,1119,/services/log-4877saveCustomEvent,200,OK,Thread Group Mobile Service New 1-1,text,true,,431,2810,1,1,https://172.24.246.8/services/log,1119,0,941,null
+1623937679778,1126,/services/log-4880,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2843,1,1,https://172.24.246.8/services/log,1125,0,946,null
+1623937680907,1156,/services/log-4876saveCustomEvent,200,OK,Thread Group Mobile Service New 1-1,text,true,,431,2816,1,1,https://172.24.246.8/services/log,1155,0,974,null
+1623937682065,1137,/services/log-4882,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2843,1,1,https://172.24.246.8/services/log,1137,0,957,null
+1623937683203,1265,/services/vfe-4878beginTransaction,200,OK,Thread Group Mobile Service New 1-1,text,true,,470,2579,1,1,https://172.24.246.8/services/vfe,1265,0,958,null
+1623937684469,1176,/services/log-4881,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2843,1,1,https://172.24.246.8/services/log,1174,0,986,null
+1623937678658,6979,EmiratesId,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group Mobile Service New 1-1,,true,,2562,16734,1,1,null,6975,8,5762,null
+1623937685653,1233,/services/vfe-4884refdata.validateAgentAndActivationId,200,OK,Thread Group Mobile Service New 1-1,text,true,,444,2785,1,1,https://172.24.246.8/services/vfe,1232,0,963,null
+1623937686887,1141,/services/log-4885,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2842,1,1,https://172.24.246.8/services/log,1140,0,960,null
+1623937688029,1754,/services/vfe-4886getCustomer,200,OK,Thread Group Mobile Service New 1-1,text,true,,525,2704,1,1,https://172.24.246.8/services/vfe,1753,0,948,null
+1623937689786,1124,/services/log-4888,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2848,1,1,https://172.24.246.8/services/log,1123,0,945,null
+1623937690910,2487,/services/vfe-4887getBillInformation_v1,200,OK,Thread Group Mobile Service New 1-1,text,true,,3061,2681,1,1,https://172.24.246.8/services/vfe,2487,0,962,null
+1623937693398,1141,/services/log-4890,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2848,1,1,https://172.24.246.8/services/log,1141,0,960,null
+1623937685647,8880,PersonalInformationNext1,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group Mobile Service New 1-1,,true,,5260,16708,1,1,null,8876,13,5738,null
+1623937694540,1886,/services/vfe-4889checkCustomerBlacklistInfo,200,OK,Thread Group Mobile Service New 1-1,text,true,,538,2775,1,1,https://172.24.246.8/services/vfe,1885,0,970,null
+1623937696427,1129,/services/log-4891,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2848,1,1,https://172.24.246.8/services/log,1128,0,951,null
+1623937697555,1274,/services/vfe-4893refdata.agentLocationConfiguration,200,OK,Thread Group Mobile Service New 1-1,text,true,,10289,2595,1,1,https://172.24.246.8/services/vfe,1273,0,1002,null
+1623937698830,1137,/services/log-4894,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2842,1,1,https://172.24.246.8/services/log,1136,0,957,null
+1623937699968,1234,/services/vfe-4895successfulDocumentValidation,200,OK,Thread Group Mobile Service New 1-1,text,true,,414,2674,1,1,https://172.24.246.8/services/vfe,1234,0,948,null
+1623937701203,1170,/services/log-4902,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2852,1,1,https://172.24.246.8/services/log,1169,0,990,null
+1623937702373,1215,/services/vfe-4896refdata.productPage,200,OK,Thread Group Mobile Service New 1-1,text,true,,543,2580,1,1,https://172.24.246.8/services/vfe,1214,0,948,null
+1623937703589,1128,/services/log-4898,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2852,1,1,https://172.24.246.8/services/log,1127,0,949,null
+1623937704717,1220,/services/vfe-4899validateDocumentType,200,OK,Thread Group Mobile Service New 1-1,text,true,,406,2692,1,1,https://172.24.246.8/services/vfe,1220,0,934,null
+1623937705938,1139,/services/log-4900,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2842,1,1,https://172.24.246.8/services/log,1137,0,955,null
+1623937707085,1218,/services/vfe-4903refdata.dealerIdReadonly,200,OK,Thread Group Mobile Service New 1-1,text,true,,467,2585,1,1,https://172.24.246.8/services/vfe,1217,0,946,null
+1623937708304,1113,/services/log-4907,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2852,1,1,https://172.24.246.8/services/log,1111,0,934,null
+1623937709418,21846,/services/vfe-4904checkCapLimit,200,OK,Thread Group Mobile Service New 1-1,text,true,,816,2891,1,1,https://172.24.246.8/services/vfe,21845,0,958,null
+1623937731264,1130,/services/log-4905,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2842,1,1,https://172.24.246.8/services/log,1130,0,948,null
+1623937732395,1230,/services/vfe-4906refdata.fraudRulesWithOutstandingCheck,200,OK,Thread Group Mobile Service New 1-1,text,true,,470,2599,1,1,https://172.24.246.8/services/vfe,1230,0,958,null
+1623937733627,1125,/services/log-4908,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2842,1,1,https://172.24.246.8/services/log,1124,0,946,null
+1623937734753,1242,/services/vfe-4909refdata.IsCreateCustomerAllowed,200,OK,Thread Group Mobile Service New 1-1,text,true,,408,2592,1,1,https://172.24.246.8/services/vfe,1241,0,972,null
+1623937735996,1119,/services/log-4910,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2842,1,1,https://172.24.246.8/services/log,1118,0,942,null
+1623937737116,1220,/services/log-4912saveCustomEvent,200,OK,Thread Group Mobile Service New 1-1,text,true,,431,2677,1,1,https://172.24.246.8/services/log,1219,0,948,null
+1623937738337,1118,/services/log-4916,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2852,1,1,https://172.24.246.8/services/log,1118,0,940,null
+1623937739456,1229,/services/vfe-4914getEligibleAccounts,200,OK,Thread Group Mobile Service New 1-1,text,true,,397,2674,1,1,https://172.24.246.8/services/vfe,1229,0,943,null
+1623937740687,1136,/services/log-4917,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2852,1,1,https://172.24.246.8/services/log,1135,0,956,null
+1623937741824,1202,/services/vfe-4918refdata.updateCustomerAccount,200,OK,Thread Group Mobile Service New 1-1,text,true,,1605,2590,1,1,https://172.24.246.8/services/vfe,1201,0,937,null
+1623937743027,1155,/services/log-4920,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2842,1,1,https://172.24.246.8/services/log,1154,0,949,null
+1623937694540,49615,PersonalInformationNext2,200,"Number of samples in transaction : 24, number of failing samples : 0",Thread Group Mobile Service New 1-1,,true,,21704,66084,1,1,null,49595,28,22881,null
+1623937744184,5339,/services/vfe-4919createAccount,200,OK,Thread Group Mobile Service New 1-1,text,true,,452,3331,1,1,https://172.24.246.8/services/vfe,5338,0,947,null
+1623937749524,2231,/services/log-4922,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2844,1,1,https://172.24.246.8/services/log,2231,0,961,null
+1623937751757,1861,/services/vfe-4924refdata.regex,200,OK,Thread Group Mobile Service New 1-1,text,true,,767,2753,1,1,https://172.24.246.8/services/vfe,1860,0,943,null
+1623937753619,1690,/services/log-4925,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2833,1,1,https://172.24.246.8/services/log,1689,0,948,null
+1623937755310,1417,/services/vfe-4926refdata.profilesWithOfferRestrictions,200,OK,Thread Group Mobile Service New 1-1,text,true,,3275,2777,1,1,https://172.24.246.8/services/vfe,1416,0,953,null
+1623937756727,1532,/services/log-4927,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2833,1,1,https://172.24.246.8/services/log,1531,0,949,null
+1623937758259,2736,/services/vfe-4928getPreActiveContractTWINPack,200,OK,Thread Group Mobile Service New 1-1,text,false,"Test failed: text expected something using /""getRefData""/	Test failed: text expected something using /""statusCode"":""OK""/	",479,2674,1,1,https://172.24.246.8/services/vfe,2736,0,987,null
+1623937761006,1409,/services/log-4929,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2843,1,1,https://172.24.246.8/services/log,1408,0,961,null
+1623937762416,1658,/services/vfe-4930refdata.welcomePackProfile,200,OK,Thread Group Mobile Service New 1-1,text,true,,748,2766,1,1,https://172.24.246.8/services/vfe,1658,0,948,null
+1623937764075,1999,/services/log-4931,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2833,1,1,https://172.24.246.8/services/log,1999,0,955,null
+1623937766075,1399,/services/vfe-4932refdata.multiLine,200,OK,Thread Group Mobile Service New 1-1,text,true,,1100,2757,1,1,https://172.24.246.8/services/vfe,1399,0,933,null
+1623937767474,1611,/services/log-4937,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2833,1,1,https://172.24.246.8/services/log,1610,0,948,null
+1623937769086,1590,/services/vfe-4935refdata.CR4591D2ContractCode,200,OK,Thread Group Mobile Service New 1-1,text,true,,653,2768,1,1,https://172.24.246.8/services/vfe,1589,0,969,null
+1623937770678,2368,/services/log-4934,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2833,1,1,https://172.24.246.8/services/log,2367,0,987,null
+1623937773048,1606,/services/vfe-4936validatingOrders,200,OK,Thread Group Mobile Service New 1-1,text,true,,396,2601,1,1,https://172.24.246.8/services/vfe,1605,0,973,null
+1623937774655,1449,/services/log-4938,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2843,1,1,https://172.24.246.8/services/log,1443,0,960,null
+1623937776106,2138,/services/vfe-4939getSIMCardInfoUnpaired,200,OK,Thread Group Mobile Service New 1-1,text,true,,570,2737,1,1,https://172.24.246.8/services/vfe,2137,0,962,null
+1623937778245,1118,/services/log-4940,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2843,1,1,https://172.24.246.8/services/log,1118,0,942,null
+1623937744183,35151,SIMReference,,"Number of samples in transaction : 18, number of failing samples : 1",Thread Group Mobile Service New 1-1,,false,,12130,50702,1,1,null,35134,31,17226,null
+1623937779366,1244,/services/log-1166-saveCustomEvent,200,OK,Thread Group Mobile Service New 1-1,text,true,,431,2678,1,1,https://172.24.246.8/services/log,1244,0,973,null
+1623937780611,1454,/services/vfe-1162-getPortfolioBundles,200,OK,Thread Group Mobile Service New 1-1,text,true,,22838,2731,1,1,https://172.24.246.8/services/vfe,1325,0,969,null
+1623937782065,1238,/services/vfe-1169-getRefData-refdata.bundleActivation.notifyDays,200,OK,Thread Group Mobile Service New 1-1,text,true,,399,2587,1,1,https://172.24.246.8/services/vfe,1237,0,966,null
+1623937783303,1207,/services/log-1168-getPortfolioBundles,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2655,1,1,https://172.24.246.8/services/log,1206,0,938,null
+1623937784511,1220,/services/log-1170-getRefData-refdata.bundleActivation.notifyDays,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2645,1,1,https://172.24.246.8/services/log,1220,0,953,null
+1623937785732,1206,/services/vfe-1171-getRefData-refdata.voiceAndDataConfigBundleRestriction,200,OK,Thread Group Mobile Service New 1-1,text,true,,720,2595,1,1,https://172.24.246.8/services/vfe,1206,0,939,null
+1623937786939,1214,/services/log-1167-saveCustomEvent_1166,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2655,1,1,https://172.24.246.8/services/log,1214,0,946,null
+1623937788154,1253,/services/log-1172-getRefData-refdata.voiceAndDataConfigBundleRestriction,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2645,1,1,https://172.24.246.8/services/log,1252,0,985,null
+1623937779365,10036,SC02_09_DuDSP_Product_Add_DealerId_PressNext,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group Mobile Service New 1-1,,true,,26028,21191,1,1,null,9904,7,7669,null
+1623937789409,1207,/services/vfe-1185-getRefData-refdata.retailRechargeConfigs,200,OK,Thread Group Mobile Service New 1-1,text,true,,818,2581,1,1,https://172.24.246.8/services/vfe,1206,0,941,null
+1623937790617,1220,/services/log-1189-getRefData-refdata.retailRechargeConfigs,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2647,1,1,https://172.24.246.8/services/log,1220,0,951,null
+1623937791840,1208,/services/log-1190-saveCustomEvent,200,OK,Thread Group Mobile Service New 1-1,text,true,,431,2678,1,1,https://172.24.246.8/services/log,1208,0,941,null
+1623937793049,1231,/services/log-1194-saveCustomEvent_1190,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2657,1,1,https://172.24.246.8/services/log,1231,0,960,null
+1623937789407,4866,SC02_10_DuDSP_AddOns_PressNext,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group Mobile Service New 1-1,,true,,2069,10563,1,1,null,4865,6,3793,null
+1623937794281,1225,/services/log-1201-saveCustomEvent,200,OK,Thread Group Mobile Service New 1-1,text,true,,431,2694,1,1,https://172.24.246.8/services/log,1224,0,953,null
+1623937795508,1239,/services/vfe-1202-getRefData-refdata.sceyeConfigs,200,OK,Thread Group Mobile Service New 1-1,text,true,,2075,2588,1,1,https://172.24.246.8/services/vfe,1237,0,952,null
+1623937796748,1214,/services/log-1207-getRefData-refdata.sceyeConfigs,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2661,1,1,https://172.24.246.8/services/log,1213,0,943,null
+1623937797963,1255,/services/log-1206-saveCustomEvent_1201,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2671,1,1,https://172.24.246.8/services/log,1254,0,984,null
+1623937794280,4933,SC02_11_DuDSP_Recharges_PressSkipRecharge,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group Mobile Service New 1-1,,true,,3326,10614,1,1,null,4928,6,3832,null
+1623937799218,1107,/services/vfe-1218-getRefData-refdata.forceEmiratesIdUpload,200,OK,Thread Group Mobile Service New 1-1,text,true,,422,1357,1,1,https://172.24.246.8/services/vfe,1106,0,967,null
+1623937800328,1107,/services/vfe-1220-getRefData-refdata.allowedUpdateDocumentProfilesAndDevices,200,OK,Thread Group Mobile Service New 1-1,text,true,,893,1375,1,1,https://172.24.246.8/services/vfe,1106,0,964,null
+1623937801435,1202,/services/log-1217-saveCustomEvent,200,OK,Thread Group Mobile Service New 1-1,text,true,,431,1454,1,1,https://172.24.246.8/services/log,1201,0,935,null
+1623937802638,1095,/services/vfe-1221-getRefData-refdata.bypassOCRValidation,200,OK,Thread Group Mobile Service New 1-1,text,true,,502,1355,1,1,https://172.24.246.8/services/vfe,1095,0,956,null
+1623937803734,1259,/services/log-1224-getRefData-refdata.bypassOCRValidation,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,1367,1,1,https://172.24.246.8/services/log,1259,0,948,null
+1623937804994,1083,/services/log-1219-getRefData-refdata.forceEmiratesIdUpload,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,1367,1,1,https://172.24.246.8/services/log,1083,0,943,null
+1623937806077,1549,/services/log-1223-saveCustomEvent_1217,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,1377,1,1,https://172.24.246.8/services/log,1547,0,945,null
+1623937807628,1078,/services/log-1222-getRefData-refdata.allowedUpdateDocumentProfilesAndDevices,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,1367,1,1,https://172.24.246.8/services/log,1078,0,940,null
+1623937799218,9480,SC02_13_DuDSP_Contract_ UploadContractSIgned.pdf_PressNext,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group Mobile Service New 1-1,,true,,3888,11019,1,1,null,9475,9,7598,null
+1623937808708,1297,/services/vfe-1234-getRefData-refdata.ocrprofiles,200,OK,Thread Group Mobile Service New 1-1,text,true,,451,2580,1,1,https://172.24.246.8/services/vfe,1297,0,955,null
+1623937810030,1215,/services/log-1235-getRefData-refdata.ocrprofiles,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2600,1,1,https://172.24.246.8/services/log,1215,0,947,null
+1623937811275,2217,/services/upload?-1236-EmiratesId_Front,200,OK,Thread Group Mobile Service New 1-1,text,true,,405,557704,1,1,https://172.24.246.8/services/upload?,2217,0,964,null
+1623937813505,2227,/services/upload?-1237-EmiratesId_Back,200,OK,Thread Group Mobile Service New 1-1,text,true,,405,616152,1,1,https://172.24.246.8/services/upload?,2227,0,963,null
+1623937815742,1422,/services/vfe-1239-mergeDocumentsInSinglePdf,200,OK,Thread Group Mobile Service New 1-1,text,true,,440,2688,1,1,https://172.24.246.8/services/vfe,1421,0,944,null
+1623937817172,1242,/services/log-1242-mergeDocumentsInSinglePdf,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2610,1,1,https://172.24.246.8/services/log,1242,0,966,null
+1623937818423,9055,/services/vfe-1243-validateDocumentUpload,200,OK,Thread Group Mobile Service New 1-1,text,false,"Test failed: text expected something using /""getRefData""/	Test failed: text expected something using /""statusCode"":""OK""/	",2391,3014,1,1,https://172.24.246.8/services/vfe,9055,0,936,null
+1623937827497,1214,/services/log-1247,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2600,1,1,https://172.24.246.8/services/log,1213,0,945,null
+1623937828724,949,/services/upload?-1248-contract_signed,Non HTTP response code: java.io.FileNotFoundException,Non HTTP response message: /home/fcs/Desktop/docker-jmeter/tests/trivial/D:/Jmeter/DU_DSP/CONTRACT_SIGNED.pdf (No such file or directory),Thread Group Mobile Service New 1-1,text,false,"Test failed: text expected something using /""getRefData""/	Test failed: text expected something using /""statusCode"":""OK""/	",2545,0,1,1,https://172.24.246.8/services/upload?,0,0,948,null
+1623937829700,1222,/services/vfe-1249-createMultiLineMobileActivation,200,OK,Thread Group Mobile Service New 1-1,text,false,"Test failed: text expected something using /""getRefData""/	Test failed: text expected something using /""statusCode"":""OK""/	",3641,4742,1,1,https://172.24.246.8/services/vfe,1222,0,989,null
+1623937830942,1219,/services/log-1267,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2612,1,1,https://172.24.246.8/services/log,1219,0,948,null
+1623937832184,1226,/services/log-1260saveCustomEvent,200,OK,Thread Group Mobile Service New 1-1,text,true,,431,2897,1,1,https://172.24.246.8/services/log,1225,0,954,null
+1623937833417,1202,/services/log-1261,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2610,1,1,https://172.24.246.8/services/log,1202,0,938,null
+1623937834629,1243,/services/log-1257saveCustomEvent,200,OK,Thread Group Mobile Service New 1-1,text,true,,431,2688,1,1,https://172.24.246.8/services/log,1243,0,972,null
+1623937835890,1210,/services/log-1266,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2610,1,1,https://172.24.246.8/services/log,1210,0,942,null
+1623937837113,1233,/services/vfe-1258successfulDocumentValidation,200,OK,Thread Group Mobile Service New 1-1,text,true,,415,2686,1,1,https://172.24.246.8/services/vfe,1233,0,947,null
+1623937838356,1221,/services/log-1253,200,OK,Thread Group Mobile Service New 1-1,text,true,,410,2610,1,1,https://172.24.246.8/services/log,1221,0,956,null
+1623937808707,30614,SC02_14_DuDSP_DocUpload_ UploadEmiratesID_PressSubmit 01,,"Number of samples in transaction : 17, number of failing samples : 3",Thread Group Mobile Service New 1-1,,false,,14425,1213403,1,1,null,29662,281,16214,null
+1623937839619,3,Debug Sampler All Variables,200,OK,Thread Group Mobile Service New 1-1,text,false,Test failed: text expected not to contain /(?i)not found/,32804,0,1,1,null,0,0,0,null
+1623937839602,3,JMETER-AssertVariablesNotFound,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group Mobile Service New 1-1,,false,,32804,0,1,1,null,0,31,0,null

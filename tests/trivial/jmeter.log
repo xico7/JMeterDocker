@@ -1,0 +1,428 @@
+2021-06-17 15:46:10,083 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-06-17 15:46:10,103 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2021-06-17 15:46:10,104 INFO o.a.j.JMeter: Loading system properties from: /opt/apache-jmeter-5.4/bin/system.properties
+2021-06-17 15:46:10,105 INFO o.a.j.JMeter: Setting System property: log_level.jmeter=DEBUG
+2021-06-17 15:46:10,105 INFO o.a.j.JMeter: Setting JMeter property: TARGET_HOST=www.map5.nl
+2021-06-17 15:46:10,105 INFO o.a.j.JMeter: Setting JMeter property: TARGET_PORT=80
+2021-06-17 15:46:10,105 INFO o.a.j.JMeter: Setting JMeter property: TARGET_PATH=/kaarten.html
+2021-06-17 15:46:10,105 INFO o.a.j.JMeter: Setting JMeter property: TARGET_KEYWORD=Kaartdiensten
+2021-06-17 15:46:10,131 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2021-06-17 15:46:10,131 INFO o.a.j.JMeter: Version 5.4
+2021-06-17 15:46:10,132 INFO o.a.j.JMeter: java.version=1.8.0_275
+2021-06-17 15:46:10,132 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2021-06-17 15:46:10,132 INFO o.a.j.JMeter: os.name=Linux
+2021-06-17 15:46:10,132 INFO o.a.j.JMeter: os.arch=amd64
+2021-06-17 15:46:10,132 INFO o.a.j.JMeter: os.version=5.11.0-18-generic
+2021-06-17 15:46:10,132 INFO o.a.j.JMeter: file.encoding=UTF-8
+2021-06-17 15:46:10,132 INFO o.a.j.JMeter: java.awt.headless=true
+2021-06-17 15:46:10,133 INFO o.a.j.JMeter: Max memory     =176160768
+2021-06-17 15:46:10,133 INFO o.a.j.JMeter: Available Processors =2
+2021-06-17 15:46:10,145 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-06-17 15:46:10,146 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-06-17 15:46:10,146 INFO o.a.j.JMeter: JMeterHome=/opt/apache-jmeter-5.4
+2021-06-17 15:46:10,146 INFO o.a.j.JMeter: user.dir  =/home/fcs/Desktop/docker-jmeter
+2021-06-17 15:46:10,146 INFO o.a.j.JMeter: PWD       =/home/fcs/Desktop/docker-jmeter
+2021-06-17 15:46:10,147 INFO o.a.j.JMeter: IP: 172.17.0.2 Name: dd1e40bf83d7 FullName: dd1e40bf83d7
+2021-06-17 15:46:10,153 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'/home/fcs/Desktop/docker-jmeter/tests/trivial/report'
+2021-06-17 15:46:10,156 INFO o.a.j.s.FileServer: Default base='/home/fcs/Desktop/docker-jmeter'
+2021-06-17 15:46:10,157 INFO o.a.j.s.FileServer: Set new base='/home/fcs/Desktop/docker-jmeter/tests/trivial'
+2021-06-17 15:46:10,533 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-06-17 15:46:10,567 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-06-17 15:46:10,576 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-06-17 15:46:10,586 INFO o.a.j.s.SaveService: Loading file: tests/trivial/DuDSPActivatePrepaidMobServiceNew_NewCustomer.jmx
+2021-06-17 15:46:10,689 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2021-06-17 15:46:11,223 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2021-06-17 15:46:11,224 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /opt/apache-jmeter-5.4/bin/proxyserver.jks
+2021-06-17 15:46:11,581 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-06-17 15:46:11,582 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-06-17 15:46:11,582 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-06-17 15:46:11,582 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-06-17 15:46:11,582 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-06-17 15:46:11,582 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-06-17 15:46:13,712 INFO o.a.j.JMeter: Creating summariser <summary>
+2021-06-17 15:46:13,722 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2021-06-17 15:46:13,722 INFO o.a.j.r.d.ReportGenerator: Will generate report at end of test from  results file: tests/trivial/test-plan.jtl
+2021-06-17 15:46:13,723 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: /opt/apache-jmeter-5.4/bin/reportgenerator.properties
+2021-06-17 15:46:13,724 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2021-06-17 15:46:13,733 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2021-06-17 15:46:13,737 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2021-06-17 15:46:13,737 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2021-06-17 15:46:13,737 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2021-06-17 15:46:13,737 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2021-06-17 15:46:13,737 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2021-06-17 15:46:13,738 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2021-06-17 15:46:13,738 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2021-06-17 15:46:13,738 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2021-06-17 15:46:13,759 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2021-06-17 15:46:13,760 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-06-17 15:46:13,760 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2021-06-17 15:46:13,760 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2021-06-17 15:46:13,761 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2021-06-17 15:46:13,761 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2021-06-17 15:46:13,761 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-06-17 15:46:13,761 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-06-17 15:46:13,761 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-06-17 15:46:13,761 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2021-06-17 15:46:13,765 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2021-06-17 15:46:13,774 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2021-06-17 15:46:13,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2021-06-17 15:46:13,779 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2021-06-17 15:46:13,779 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2021-06-17 15:46:13,779 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2021-06-17 15:46:13,902 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2021-06-17 15:46:13,902 INFO o.a.j.s.SampleEvent: List of sample_variables: [/services/vfe-5110omPublicId]
+2021-06-17 15:46:13,903 INFO o.a.j.s.SampleEvent: List of sample_variables: [/services/vfe-5110omPublicId]
+2021-06-17 15:46:13,920 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-06-17 15:46:13,920 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-06-17 15:46:16,056 INFO o.a.j.JMeter: Running test (1623937576056)
+2021-06-17 15:46:16,427 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group Mobile Service New
+2021-06-17 15:46:16,427 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group Mobile Service New.
+2021-06-17 15:46:16,427 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2021-06-17 15:46:16,427 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2021-06-17 15:46:16,512 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2021-06-17 15:46:16,512 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2021-06-17 15:46:16,525 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-06-17 15:46:16,526 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-06-17 15:46:16,527 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-06-17 15:46:16,528 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-06-17 15:46:16,606 INFO o.a.j.t.JMeterThread: Thread started: Thread Group Mobile Service New 1-1
+2021-06-17 15:46:16,666 WARN o.a.j.c.RandomVariableConfig: maximum(999999999999) - minimum(111111111111) must be <= 2147483647
+2021-06-17 15:46:16,892 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = dd1e40bf83d7
+2021-06-17 15:46:16,950 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2021-06-17 15:46:17,239 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2021-06-17 15:46:17,249 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2021-06-17 15:46:17,250 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2021-06-17 15:46:18,196 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2021-06-17 15:46:18,202 INFO o.a.j.u.SSLManager: KeyStore created OK
+2021-06-17 15:46:18,203 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2021-06-17 15:46:19,080 INFO o.a.j.p.h.p.BaseParser: Created org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-06-17 15:46:19,123 INFO o.a.j.p.h.s.ResourcesDownloader: Creating ResourcesDownloader with keepalive_inseconds : 60
+2021-06-17 15:46:21,321 INFO o.a.j.p.h.p.BaseParser: Created org.apache.jmeter.protocol.http.parser.CssParser
+2021-06-17 15:46:22,365 WARN c.h.c.r.e.LoggingCSSParseErrorHandler: Browser compliant mode skipped CSS from [988:13] starting at token '
+    ' until [989:21] to token ';' (based on com.helger.css.parser.ParseException: Encountered unexpected token: "*" "*"
+    at line 989, column 5.
+
+Was expecting one of:
+
+    ";"
+    "@bottom-center"
+    "@bottom-left"
+    "@bottom-left-corner"
+    "@bottom-right"
+    "@bottom-right-corner"
+    "@charset"
+    "@import"
+    "@left-bottom"
+    "@left-middle"
+    "@left-top"
+    "@media"
+    "@namespace"
+    "@page"
+    "@right-bottom"
+    "@right-middle"
+    "@right-top"
+    "@supports"
+    "@top-center"
+    "@top-left"
+    "@top-left-corner"
+    "@top-right"
+    "@top-right-corner"
+    "}"
+    <AT_UNKNOWN>
+    <FONTFACE_SYM>
+    <IDENT>
+    <KEYFRAMES_SYM>
+    <S>
+    <VIEWPORT_SYM>
+)
+2021-06-17 15:46:22,366 WARN c.h.c.r.e.LoggingCSSParseErrorHandler: Browser compliant mode skipped CSS from [990:13] starting at token ':' until [996:1] to token '}' (based on com.helger.css.parser.ParseException: Encountered unexpected token: " " <S>
+    at line 990, column 14.
+
+Was expecting one of:
+
+    ":"
+    <FUNCTION_NTH>
+    <IDENT>
+)
+2021-06-17 15:46:22,677 WARN c.h.c.r.e.LoggingCSSParseErrorHandler: Browser compliant mode skipped CSS from [7625:13] starting at token '
+    ' until [7626:21] to token ';' (based on com.helger.css.parser.ParseException: Encountered unexpected token: "*" "*"
+    at line 7626, column 5.
+
+Was expecting one of:
+
+    ";"
+    "@bottom-center"
+    "@bottom-left"
+    "@bottom-left-corner"
+    "@bottom-right"
+    "@bottom-right-corner"
+    "@charset"
+    "@import"
+    "@left-bottom"
+    "@left-middle"
+    "@left-top"
+    "@media"
+    "@namespace"
+    "@page"
+    "@right-bottom"
+    "@right-middle"
+    "@right-top"
+    "@supports"
+    "@top-center"
+    "@top-left"
+    "@top-left-corner"
+    "@top-right"
+    "@top-right-corner"
+    "}"
+    <AT_UNKNOWN>
+    <FONTFACE_SYM>
+    <IDENT>
+    <KEYFRAMES_SYM>
+    <S>
+    <VIEWPORT_SYM>
+)
+2021-06-17 15:46:22,678 WARN c.h.c.r.e.LoggingCSSParseErrorHandler: Browser compliant mode skipped CSS from [7627:16] starting at token ':' until [7632:1] to token '}' (based on com.helger.css.parser.ParseException: Encountered unexpected token: " " <S>
+    at line 7627, column 17.
+
+Was expecting one of:
+
+    ":"
+    <FUNCTION_NTH>
+    <IDENT>
+)
+2021-06-17 15:46:22,691 WARN c.h.c.r.e.LoggingCSSParseErrorHandler: Browser compliant mode skipped CSS from [8174:28] starting at token '
+    ' until [8176:1] to token '}' (based on com.helger.css.parser.ParseException: Encountered unexpected token: "*" "*"
+    at line 8175, column 5.
+
+Was expecting one of:
+
+    ";"
+    "@bottom-center"
+    "@bottom-left"
+    "@bottom-left-corner"
+    "@bottom-right"
+    "@bottom-right-corner"
+    "@charset"
+    "@import"
+    "@left-bottom"
+    "@left-middle"
+    "@left-top"
+    "@media"
+    "@namespace"
+    "@page"
+    "@right-bottom"
+    "@right-middle"
+    "@right-top"
+    "@supports"
+    "@top-center"
+    "@top-left"
+    "@top-left-corner"
+    "@top-right"
+    "@top-right-corner"
+    "}"
+    <AT_UNKNOWN>
+    <FONTFACE_SYM>
+    <IDENT>
+    <KEYFRAMES_SYM>
+    <S>
+    <VIEWPORT_SYM>
+)
+2021-06-17 15:46:22,691 WARN c.h.c.r.e.LoggingCSSParseErrorHandler: Browser compliant mode skipped CSS from [8178:13] starting at token '
+    ' until [8180:1] to token '}' (based on com.helger.css.parser.ParseException: Encountered unexpected token: "*" "*"
+    at line 8179, column 5.
+
+Was expecting one of:
+
+    ";"
+    "@bottom-center"
+    "@bottom-left"
+    "@bottom-left-corner"
+    "@bottom-right"
+    "@bottom-right-corner"
+    "@charset"
+    "@import"
+    "@left-bottom"
+    "@left-middle"
+    "@left-top"
+    "@media"
+    "@namespace"
+    "@page"
+    "@right-bottom"
+    "@right-middle"
+    "@right-top"
+    "@supports"
+    "@top-center"
+    "@top-left"
+    "@top-left-corner"
+    "@top-right"
+    "@top-right-corner"
+    "}"
+    <AT_UNKNOWN>
+    <FONTFACE_SYM>
+    <IDENT>
+    <KEYFRAMES_SYM>
+    <S>
+    <VIEWPORT_SYM>
+)
+2021-06-17 15:46:22,988 WARN c.h.c.r.e.LoggingCSSParseErrorHandler: Browser compliant mode skipped CSS from [21854:11] starting at token ' ' until [21854:22] to token ';' (based on com.helger.css.parser.ParseException: Encountered unexpected token: "!important" <IMPORTANT_SYM>
+    at line 21854, column 12.
+
+Was expecting one of:
+
+    "+"
+    "-"
+    "["
+    "and"
+    "expression("
+    "from"
+    "inherit"
+    "not"
+    "only"
+    "or"
+    "to"
+    <ANGLE_DEG>
+    <ANGLE_GRAD>
+    <ANGLE_RAD>
+    <ANGLE_TURN>
+    <CH>
+    <DPCM>
+    <DPI>
+    <DPPX>
+    <EM>
+    <EX>
+    <FR>
+    <FREQ_HZ>
+    <FREQ_KHZ>
+    <FUNCTION>
+    <FUNCTION_CALC>
+    <HASH>
+    <IDENT>
+    <LENGTH_CM>
+    <LENGTH_IN>
+    <LENGTH_MM>
+    <LENGTH_PC>
+    <LENGTH_PT>
+    <LENGTH_Q>
+    <NUMBER>
+    <PERCENTAGE>
+    <PX>
+    <REM>
+    <S>
+    <STRING1>
+    <STRING2>
+    <TIME_MS>
+    <TIME_S>
+    <URANGE>
+    <URL>
+    <VH>
+    <VMAX>
+    <VMIN>
+    <VW>
+)
+2021-06-17 15:46:23,022 WARN c.h.c.r.e.LoggingCSSParseErrorHandler: Browser compliant mode skipped CSS from [23615:34] starting at token ';' until [23616:31] to token ';' (based on com.helger.css.parser.ParseException: Encountered unexpected token: "," <COMMA>
+    at line 23615, column 35.
+
+Was expecting one of:
+
+    ";"
+    "@bottom-center"
+    "@bottom-left"
+    "@bottom-left-corner"
+    "@bottom-right"
+    "@bottom-right-corner"
+    "@charset"
+    "@import"
+    "@left-bottom"
+    "@left-middle"
+    "@left-top"
+    "@media"
+    "@namespace"
+    "@page"
+    "@right-bottom"
+    "@right-middle"
+    "@right-top"
+    "@supports"
+    "@top-center"
+    "@top-left"
+    "@top-left-corner"
+    "@top-right"
+    "@top-right-corner"
+    "}"
+    <AT_UNKNOWN>
+    <FONTFACE_SYM>
+    <IDENT>
+    <KEYFRAMES_SYM>
+    <S>
+    <VIEWPORT_SYM>
+)
+2021-06-17 15:46:23,029 WARN c.h.c.r.e.LoggingCSSParseErrorHandler: Browser compliant mode skipped CSS from [23939:21] starting at token ' ' until [23939:32] to token ';' (based on com.helger.css.parser.ParseException: Encountered unexpected token: "!important" <IMPORTANT_SYM>
+    at line 23939, column 22.
+
+Was expecting one of:
+
+    ":"
+    <S>
+)
+2021-06-17 15:46:32,804 INFO o.a.j.r.Summariser: summary +      7 in 00:00:17 =    0.4/s Avg:  1742 Min:   117 Max:  5556 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2021-06-17 15:47:01,197 INFO o.a.j.r.Summariser: summary +     21 in 00:00:28 =    0.7/s Avg:  1193 Min:  1078 Max:  1674 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2021-06-17 15:47:01,197 INFO o.a.j.r.Summariser: summary =     28 in 00:00:45 =    0.6/s Avg:  1331 Min:   117 Max:  5556 Err:     0 (0.00%)
+2021-06-17 15:47:30,241 INFO o.a.j.r.Summariser: summary +     23 in 00:00:29 =    0.8/s Avg:  1259 Min:  1211 Max:  1627 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2021-06-17 15:47:30,242 INFO o.a.j.r.Summariser: summary =     51 in 00:01:14 =    0.7/s Avg:  1298 Min:   117 Max:  5556 Err:     0 (0.00%)
+2021-06-17 15:48:00,905 INFO o.a.j.r.Summariser: summary +     25 in 00:00:31 =    0.8/s Avg:  1224 Min:  1111 Max:  2030 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2021-06-17 15:48:00,906 INFO o.a.j.r.Summariser: summary =     76 in 00:01:45 =    0.7/s Avg:  1274 Min:   117 Max:  5556 Err:     0 (0.00%)
+2021-06-17 15:49:00,685 INFO o.a.j.r.Summariser: summary +     31 in 00:01:00 =    0.5/s Avg:  1926 Min:  1113 Max: 21846 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2021-06-17 15:49:00,686 INFO o.a.j.r.Summariser: summary =    107 in 00:02:45 =    0.6/s Avg:  1463 Min:   117 Max: 21846 Err:     0 (0.00%)
+2021-06-17 15:49:30,677 INFO o.a.j.r.Summariser: summary +     16 in 00:00:30 =    0.5/s Avg:  1872 Min:  1136 Max:  5339 Err:     1 (6.25%) Active: 1 Started: 1 Finished: 0
+2021-06-17 15:49:30,677 INFO o.a.j.r.Summariser: summary =    123 in 00:03:15 =    0.6/s Avg:  1516 Min:   117 Max: 21846 Err:     1 (0.81%)
+2021-06-17 15:50:00,326 INFO o.a.j.r.Summariser: summary +     22 in 00:00:30 =    0.7/s Avg:  1346 Min:  1107 Max:  2368 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2021-06-17 15:50:00,327 INFO o.a.j.r.Summariser: summary =    145 in 00:03:44 =    0.6/s Avg:  1490 Min:   117 Max: 21846 Err:     1 (0.69%)
+2021-06-17 15:50:28,725 INFO o.a.j.s.FileServer: Stored: D:/Jmeter/DU_DSP/CONTRACT_SIGNED.pdf
+2021-06-17 15:50:30,937 INFO o.a.j.r.Summariser: summary +     17 in 00:00:31 =    0.6/s Avg:  1790 Min:   949 Max:  9055 Err:     3 (17.65%) Active: 1 Started: 1 Finished: 0
+2021-06-17 15:50:30,938 INFO o.a.j.r.Summariser: summary =    162 in 00:04:15 =    0.6/s Avg:  1522 Min:   117 Max: 21846 Err:     4 (2.47%)
+2021-06-17 15:50:39,637 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group Mobile Service New 1-1
+2021-06-17 15:50:39,637 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group Mobile Service New 1-1
+2021-06-17 15:50:39,639 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2021-06-17 15:50:39,641 INFO o.a.j.r.Summariser: summary +      8 in 00:00:09 =    0.9/s Avg:  1069 Min:     3 Max:  1243 Err:     1 (12.50%) Active: 0 Started: 1 Finished: 1
+2021-06-17 15:50:39,649 INFO o.a.j.r.Summariser: summary =    170 in 00:04:24 =    0.6/s Avg:  1500 Min:     3 Max: 21846 Err:     5 (2.94%)
+2021-06-17 15:50:39,650 INFO o.a.j.JMeter: Generating Dashboard
+2021-06-17 15:50:39,650 INFO o.a.j.r.d.ReportGenerator: Flushing result collector before report Generation
+2021-06-17 15:50:39,668 INFO o.a.j.r.p.NormalizerSampleConsumer: Using format, 'ms', to parse timeStamp field
+2021-06-17 15:50:39,950 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): beginDate produced 0 samples
+2021-06-17 15:50:39,950 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): endDate produced 0 samples
+2021-06-17 15:50:39,957 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ApdexSummaryConsumer#stopProducing(): apdexSummary produced 0 samples
+2021-06-17 15:50:39,958 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.RequestsSummaryConsumer#stopProducing(): requestsSummary produced 0 samples
+2021-06-17 15:50:39,969 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.StatisticsSummaryConsumer#stopProducing(): statisticsSummary produced 0 samples
+2021-06-17 15:50:39,973 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumer#stopProducing(): top5ErrorsBySampler produced 0 samples
+2021-06-17 15:50:39,973 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ErrorsSummaryConsumer#stopProducing(): errorsSummary produced 0 samples
+2021-06-17 15:50:39,973 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.HitsPerSecondGraphConsumer#stopProducing(): hitsPerSecond produced 0 samples
+2021-06-17 15:50:40,001 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyVSRequestGraphConsumer#stopProducing(): latencyVsRequest produced 0 samples
+2021-06-17 15:50:40,002 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.SyntheticResponseTimeDistributionGraphConsumer#stopProducing(): syntheticResponseTimeDistribution produced 0 samples
+2021-06-17 15:50:40,003 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.BytesThroughputGraphConsumer#stopProducing(): bytesThroughputOverTime produced 0 samples
+2021-06-17 15:50:40,003 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.CodesPerSecondGraphConsumer#stopProducing(): codesPerSecond produced 0 samples
+2021-06-17 15:50:40,019 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeVSRequestGraphConsumer#stopProducing(): responseTimeVsRequest produced 0 samples
+2021-06-17 15:50:40,020 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): startIntervalControlerFilter produced 1246 samples
+2021-06-17 15:50:40,020 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TotalTPSGraphConsumer#stopProducing(): totalTPS produced 0 samples
+2021-06-17 15:50:40,021 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ActiveThreadsGraphConsumer#stopProducing(): activeThreadsOverTime produced 0 samples
+2021-06-17 15:50:40,021 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TimeVSThreadGraphConsumer#stopProducing(): timeVsThreads produced 0 samples
+2021-06-17 15:50:40,046 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeDistributionGraphConsumer#stopProducing(): responseTimeDistribution produced 0 samples
+2021-06-17 15:50:40,058 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TransactionsPerSecondGraphConsumer#stopProducing(): transactionsPerSecond produced 0 samples
+2021-06-17 15:50:40,059 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesGraphConsumer#stopProducing(): responseTimePercentiles produced 0 samples
+2021-06-17 15:50:40,094 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesOverTimeGraphConsumer#stopProducing(): responseTimePercentilesOverTime produced 0 samples
+2021-06-17 15:50:40,095 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeOverTimeGraphConsumer#stopProducing(): responseTimesOverTime produced 0 samples
+2021-06-17 15:50:40,096 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ConnectTimeOverTimeGraphConsumer#stopProducing(): connectTimeOverTime produced 0 samples
+2021-06-17 15:50:40,098 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyOverTimeGraphConsumer#stopProducing(): latenciesOverTime produced 0 samples
+2021-06-17 15:50:40,099 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): nameFilter produced 2880 samples
+2021-06-17 15:50:40,099 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): dateRangeFilter produced 576 samples
+2021-06-17 15:50:40,099 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.NormalizerSampleConsumer#stopProducing(): normalizer produced 192 samples
+2021-06-17 15:50:40,100 INFO o.a.j.r.p.CsvFileSampleSource: produce(): 192 samples produced in 353ms on channel 0
+2021-06-17 15:50:40,100 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'json' of className:'org.apache.jmeter.report.dashboard.JsonExporter'
+2021-06-17 15:50:40,386 INFO o.a.j.r.d.JsonExporter: Found data for consumer statisticsSummary in context
+2021-06-17 15:50:40,386 INFO o.a.j.r.d.JsonExporter: Creating statistics for overall
+2021-06-17 15:50:40,394 INFO o.a.j.r.d.JsonExporter: Creating statistics for other transactions
+2021-06-17 15:50:40,396 INFO o.a.j.r.d.JsonExporter: Checking output folder
+2021-06-17 15:50:40,396 INFO o.a.j.r.d.JsonExporter: Writing statistics JSON to /home/fcs/Desktop/docker-jmeter/tests/trivial/report/statistics.json
+2021-06-17 15:50:40,518 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'html' of className:'org.apache.jmeter.report.dashboard.HtmlTemplateExporter'
+2021-06-17 15:50:40,523 INFO o.a.j.r.d.HtmlTemplateExporter: Will generate dashboard in folder: /home/fcs/Desktop/docker-jmeter/tests/trivial/report
+2021-06-17 15:50:41,269 INFO o.a.j.r.d.HtmlTemplateExporter: Report will be generated in: /home/fcs/Desktop/docker-jmeter/tests/trivial/report, creating folder structure
+2021-06-17 15:50:41,275 INFO o.a.j.r.d.TemplateVisitor: Copying folder from '/opt/apache-jmeter-5.4/bin/report-template' to '/home/fcs/Desktop/docker-jmeter/tests/trivial/report', got message: /home/fcs/Desktop/docker-jmeter/tests/trivial/report, found non empty folder with following content [/home/fcs/Desktop/docker-jmeter/tests/trivial/report/statistics.json], will be ignored
+2021-06-17 15:50:41,620 INFO o.a.j.JMeter: Dashboard generated
